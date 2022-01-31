@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">OptiMap</string>
+    <string name="name">Наименование сделки</string>
+    <string name="name_hint">Введите назначение платежа</string>
+    <string name="enter_value">Введите сумму</string>
+    <string name="value">Сумма</string>
+    <string name="data">Дата</string>
+    <string name="add">Добавить</string>
+    <string name="name_surname">Юлия \nВермишелевская</string>
+    <string name="rating">4.7</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="wallet">Кошелек</string>
+    <string name="deal_name">Сделка</string>
+</resources>

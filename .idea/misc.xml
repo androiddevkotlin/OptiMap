@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="app/src/main/res/drawable-anydpi/ic_menu_add.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.2185" />
+        <entry key="app/src/main/res/drawable/ic_bx_calendar.xml" value="0.1985" />
+        <entry key="app/src/main/res/drawable/ic_bx_credit_card.xml" value="0.2185" />
+        <entry key="app/src/main/res/drawable/ic_bx_plus_circle.xml" value="0.2185" />
+        <entry key="app/src/main/res/drawable/ic_calendar.xml" value="0.2185" />
+        <entry key="app/src/main/res/drawable/ic_launcher_background.xml" value="0.2185" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.2911458333333333" />
+        <entry key="app/src/main/res/layout/activity_nav_maps.xml" value="0.2911458333333333" />
+        <entry key="app/src/main/res/layout/app_bar_nav_activity.xml" value="0.10520833333333333" />
+        <entry key="app/src/main/res/layout/app_bar_nav_maps.xml" value="0.33" />
+        <entry key="app/src/main/res/layout/fragment_crime.xml" value="0.2911458333333333" />
+        <entry key="app/src/main/res/layout/fragment_crime_list.xml" value="0.2911458333333333" />
+        <entry key="app/src/main/res/layout/fragment_map.xml" value="0.2911458333333333" />
+        <entry key="app/src/main/res/layout/list_item_crime.xml" value="0.33" />
+        <entry key="app/src/main/res/layout/list_item_payment.xml" value="0.2911458333333333" />
+        <entry key="app/src/main/res/layout/list_plus_minus_item.xml" value="0.23324275362318841" />
+        <entry key="app/src/main/res/layout/map_fragment_test.xml" value="0.2911458333333333" />
+        <entry key="app/src/main/res/layout/nav_header_nav_maps.xml" value="0.2911458333333333" />
+        <entry key="app/src/main/res/menu/activity_nav_maps_drawer.xml" value="0.2911458333333333" />
+        <entry key="app/src/main/res/menu/fragment_crime_list.xml" value="0.2911458333333333" />
+        <entry key="app/src/main/res/menu/nav_maps.xml" value="0.2911458333333333" />
+      </map>
+    </option>
+  </component>
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK" />
+</project>
